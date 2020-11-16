@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel&display=swap');
+
+#title{
+      font-family: 'Permanent Marker';
+      color: #b51a09;
+}
