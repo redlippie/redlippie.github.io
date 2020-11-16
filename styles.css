@@ -1,7 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Martel&display=swap');
 
-#title{
-      font-family: 'Permanent Marker';
+@font-face{
+	font-family: lipstick;
+	src:url("lipstick-rage-font/LipstickRageRegular-BWLwx.ttf");
+	}
+
+#Title{
+      font-family: 'lipstick';
       color: #b51a09;
+	  background-color:#b9924d
 }
+
+.header{
+	background-color: #b51a09;
+}
+
