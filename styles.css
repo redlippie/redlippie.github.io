@@ -14,22 +14,24 @@
 
 #buttin{
 	display: flex;
+	flex-direction: row;
 	justify-content: space-around;
-	align-self: flex-start
+	align-self: flex-start;
 	
 }
 
 #lippie{
-	width: 100;
-	height: 300;
+	display: block;
+	width: 300px;
+	height: 300px;
 	
 }
 
 .home, .hist, .docs, .abme{
 	
-	font-family: lipstick;
-	color: #b51a09;
-	background-color: #b9924d;
+	display: block;
+	width: 400px;
+	height: 200px;
 	
 }
 
