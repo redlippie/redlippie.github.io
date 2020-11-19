@@ -5,7 +5,11 @@
 	font-family: lipstick;
 	src:url("lipstick-rage-font/LipstickRageRegular-BWLwx.ttf");
 	}
+.body{
+	
 
+	
+}
 #Title{
       font-family: 'lipstick';
       color: #b51a09;
@@ -15,7 +19,7 @@
 #buttin{
 	display: flex;
 	flex-direction: row;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-self: flex-start;
 	
 }
@@ -30,8 +34,8 @@
 .home, .hist, .docs, .abme{
 	
 	display: block;
-	width: 400px;
-	height: 200px;
+	width: 300px;
+	height: 150px;
 	
 }
 
