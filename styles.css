@@ -36,6 +36,10 @@ body {
       align-self: flex-end;
 }
 
+#covers{
+
+}
+
 .lippie {
       display: block;
       width: 200px;
@@ -52,4 +56,9 @@ body {
 
 }
 
-.header {}
+.cover120, .cover140, .cover1107, .cover1020L{
+
+      display:block;
+      width: 300px;
+      height: 400px;
+}
