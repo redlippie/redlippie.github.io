@@ -10,7 +10,7 @@ body {
 
       margin: 0px;
       background-image: url("Pictures/lippieRoll.gif");
-      background-position: ;
+      background-color: #3c3d40;
       background-size: 60px 80px;
 
 }
@@ -37,7 +37,9 @@ body {
 }
 
 #covers{
-
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
 }
 
 .lippie {
