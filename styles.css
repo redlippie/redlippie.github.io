@@ -67,6 +67,8 @@ body {
 }
 
 .summary{
-      background-color: 186, 30, 19, 75%;
+      font-family: Martel;
+      background: rgba(186, 30, 19, .75);
       
+
 }
