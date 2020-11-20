@@ -10,9 +10,10 @@ body {
 
       margin: 0px;
       background-image: url("Pictures/lippieRoll.gif");
-      background-color: #3c3d40;
+      background-color: #fff2f2;
       background-size: 60px 80px;
-
+      cursor: url("Cursor/Cursor.png");
+      
 }
 
 #Title {
