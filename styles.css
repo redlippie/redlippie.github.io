@@ -69,6 +69,15 @@ body {
       display: block;
       font-family: Martel;
       font-size: medium;
-      background: rgba(186, 30, 19, .9);
+      background: rgba(186, 30, 19, .75);
       margin: 10px;
       }
+
+.the1920s{
+      display: block;
+      font-family: Martel;
+      font: medium;
+      width: 400px; height: 250px;
+      color: #b9924d;
+      background:rgba(51, 19, 13, 0.877) ;
+}
