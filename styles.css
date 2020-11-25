@@ -12,7 +12,6 @@ body {
       background-image: url("Pictures/lippieRoll.gif");
       background-color: #fff2f2;
       background-size: 60px 80px;
-      cursor: url("Cursor/Cursor.png"), auto;
       
 }
 
@@ -67,9 +66,9 @@ body {
 }
 
 .summary{
-      font-family: 'lipstick';
+      display: block;
+      font-family: Martel;
       font-size: medium;
-      background: rgba(186, 30, 19, .75);
-      
-
-}
+      background: rgba(186, 30, 19, .9);
+      margin: 10px;
+      }
