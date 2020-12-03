@@ -41,6 +41,12 @@ body {
       flex-direction: row;
       justify-content: space-between;
 }
+#img1920s{
+        display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 10px;
+} 
 
 .lippie {
       display: block;
@@ -73,17 +79,46 @@ body {
       margin: 10px;
       }
 
-.the1920s{
+.the1920s, .the1930s{
       display: block;
+      margin: 100px;
+      padding: 40px;
       font-family: Martel;
-      font: medium;
-      width: 400px; height: 250px;
-      color: #b9924d;
-      background:rgba(51, 19, 13, 0.877) ;
+      color: #a70101;
+      background:rgba(255, 238, 191, 0.95);
+      width: 850px;
 }
-.the1920s1{
+.the1920s1 {
+      display: block;
+      width: 200px;
+      height: 300px;
+      margin-right: 10px;
+}
+.the1920s2 {
+      display: block;
+      width: 300px;
+      height: 200px;
+      margin-top:50px ;
+}
+.the1920s3{
+      display: block;
+      width: 300px;
+      height: 200px;
+      margin-top:50px;
+}
 
+.the1920s4{
+      display: block;
+      width: 400px;
+      height: 350px;
 }
-.tb1{
-      
+.the1930s1{
+      display: block;
+      width: 400px;
+      height: 350px;
+}
+.h1{
+
+      font-family: Martel;
+      background:rgb(51, 19, 13);
 }
