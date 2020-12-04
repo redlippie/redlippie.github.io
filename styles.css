@@ -169,6 +169,17 @@ height: 400px;
  margin-right:10px;
 overflow: auto;
 }
+.document{
+      display: flex;
+      display: block;
+      justify-content: center;
+      width: 400px;
+      background-color: #b9924dd8;
+}
+.reflec{
+      font-family: Martel;
+      background:rgba(255, 238, 191, 0.95);
+}
 .h1{
 
       font-family: Martel;
