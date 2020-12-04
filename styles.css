@@ -19,7 +19,11 @@ body {
       display: block;
       font-family: 'lipstick';
       color: #b51a09;
-      background-color: #b9924d;
+      background-color: #b9924dd8;
+      width: 500px;
+      margin: 10px;
+      padding: 10px;
+      position: static;
 
 }
 
@@ -28,7 +32,7 @@ body {
       flex-direction: row;
       justify-content: space-between;
       align-self: flex-start;
-
+      position: static;
 }
 
 #lipsticks {
@@ -44,8 +48,8 @@ body {
 #history{
       display: flex;
       flex-direction: column;
-      align-content: center;
-      justify-content: center;
+      justify-content: end;
+   
 }
 #img1920s{
       display: flex;
@@ -60,6 +64,19 @@ body {
       margin: 10px;
 }
 #img1930s2 {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 10px;
+}
+
+#img1940s{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 10px;
+}
+#img1940s2 {
       display: flex;
       flex-direction: row;
       justify-content: space-between;
@@ -145,9 +162,17 @@ body {
        overflow: auto;
 }
 
+.the1940s3, .the1940s4, .the1940s5, .the1940s6, .the1940s7 {
+display: block;
+width: 350px;
+height: 400px;
+ margin-right:10px;
+overflow: auto;
+}
 .h1{
 
       font-family: Martel;
       background:rgb(51, 19, 13);
 }
+
 
