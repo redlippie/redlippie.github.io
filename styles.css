@@ -41,12 +41,29 @@ body {
       flex-direction: row;
       justify-content: space-between;
 }
+#history{
+      display: flex;
+      align-content: center;
+      justify-content: center;
+}
 #img1920s{
-        display: flex;
+      display: flex;
       flex-direction: row;
       justify-content: space-between;
       margin: 10px;
 } 
+#img1930s{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin: 10px;
+}
+#img1930s2 {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 10px;
+}
 
 .lippie {
       display: block;
@@ -79,7 +96,7 @@ body {
       margin: 10px;
       }
 
-.the1920s, .the1930s{
+.the1920s, .the1930s, .the1940s {
       display: block;
       margin: 100px;
       padding: 40px;
@@ -96,15 +113,16 @@ body {
 }
 .the1920s2 {
       display: block;
-      width: 300px;
-      height: 200px;
-      margin-top:50px ;
+      width: 350px;
+      height: 400px;
+      margin-right:10px ;
+      overflow: auto;
 }
 .the1920s3{
       display: block;
-      width: 300px;
-      height: 200px;
-      margin-top:50px;
+      width: 350px;
+      height: 400px;
+      overflow: auto;
 }
 
 .the1920s4{
@@ -114,11 +132,38 @@ body {
 }
 .the1930s1{
       display: block;
-      width: 400px;
-      height: 350px;
+      width: 350px;
+      height: 400px;
+      margin-right:10px;
+}
+.the1930s2 {
+      display: block;
+      width: 350px;
+      height: 400px;
+      margin-right:10px;
+       overflow: auto;
+}
+.the1930s3 {
+      display: block;
+      width: 350px;
+      height: 400px;
+       overflow: auto;
+}
+.the1930s4 {
+      display: block;
+      width: 350px;
+      height: 400px;
+       overflow: auto;
+}
+.the1930s5 {
+      display: block;
+      width: 350px;
+      height: 400px;
+       overflow: auto;
 }
 .h1{
 
       font-family: Martel;
       background:rgb(51, 19, 13);
 }
+
