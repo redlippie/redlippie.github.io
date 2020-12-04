@@ -130,37 +130,20 @@ body {
       width: 400px;
       height: 350px;
 }
-.the1930s1{
+.the1930s1, .the1930s2 {
       display: block;
       width: 350px;
       height: 400px;
       margin-right:10px;
 }
-.the1930s2 {
-      display: block;
-      width: 350px;
-      height: 400px;
-      margin-right:10px;
-       overflow: auto;
-}
-.the1930s3 {
+
+.the1930s3, .the1930s4, .the1930s5 {
       display: block;
       width: 350px;
       height: 400px;
        overflow: auto;
 }
-.the1930s4 {
-      display: block;
-      width: 350px;
-      height: 400px;
-       overflow: auto;
-}
-.the1930s5 {
-      display: block;
-      width: 350px;
-      height: 400px;
-       overflow: auto;
-}
+
 .h1{
 
       font-family: Martel;
